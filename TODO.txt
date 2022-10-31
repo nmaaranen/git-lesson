@@ -1,0 +1,5 @@
+- Creating first repository
+- Add fles to repo
+- Hands-on exercise
+- Pulling from remote source
+- Git vs GitHub vs GitHub desktop
